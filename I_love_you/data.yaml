@@ -1,0 +1,13 @@
+train: C:\Users\kj100\OneDrive\바탕 화면\I_love_you\train\images
+val: C:\Users\kj100\OneDrive\바탕 화면\I_love_you\valid\images
+test: C:\Users\kj100\OneDrive\바탕 화면\I_love_you\test\images
+
+nc: 5
+names: ['I_Love_You', 'good', 'friend', 'bad', 'OK']
+
+roboflow:
+  workspace: isaretdili-6mtnd
+  project: outolabeltry
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/isaretdili-6mtnd/outolabeltry/dataset/4
