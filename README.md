@@ -84,7 +84,7 @@
 ## 🛡️ 프로젝트 목표
 **포용적 사회 구현**을 위한 기술과 교육의 결합을 통해, 청각 장애인과 비장애인 간의 소통의 장벽을 낮추고 모두가 함께 성장하는 세상을 만듭니다.
 
---
+---
 
 ## 🏆 수상 내역
 <img src="https://raw.githubusercontent.com/MLPkkrsl/MLP/main/award.png" width="600">
